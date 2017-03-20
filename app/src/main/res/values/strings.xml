@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Twitter Test App</string>
+    <string name="login_button">Login</string>
+    <string name="at">\@</string>
+    <string name="span_text">This is just for test</string>
+    <string name="retweeted">retweeted</string>
+    <string name="no_tweets">No tweets</string>
+    <string name="menu_search">Search</string>
+    <string name="enter_some_username">Enter some username</string>
+    <string name="spaces">Username cannot contain any spaces</string>
+</resources>
